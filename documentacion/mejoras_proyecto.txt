@@ -1,0 +1,9 @@
+- paginacion.
+- limpiar carrito cada vez que se valide un pedido --OK
+- tiempo en var session.
+- metodo de pago.
+- desplegables listado provincias/ciudades.
+- crear pdf con datos del pedido.
+- restar stock cada vez que se compra un producto 
+	(en pedido/confirmacion recorremos el pedido y hacer update de stock).
+- no mostrar 
